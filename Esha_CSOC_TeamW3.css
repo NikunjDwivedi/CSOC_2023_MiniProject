@@ -1,0 +1,60 @@
+.back{
+    background-image: url(https://wallpaperaccess.com/full/402891.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.info{
+    color: blanchedalmond;
+    font-size:100px;
+}
+.me{
+    color: blanchedalmond;
+    font-size:180px;
+    margin-left: 150px;
+    margin-top: 150px;
+
+}
+.in{
+    color: blanchedalmond;
+    font-size:100px;
+    margin-left: 150px;
+}
+.icon1{
+    font-size: 450px;
+}
+.icon2{
+    font-size: 450px;
+}
+.icon3{
+    font-size: 450px;
+}
+.soc{
+    margin-left: 4000px;
+    margin-top: 25px;
+}
+.you{
+    font-size: 110px;
+    color: blanchedalmond;
+}
+.tech{
+    font-size: 110px;
+    color: blanchedalmond;
+}
+.A{
+    color: blanchedalmond;
+}
+.C{
+    color: blanchedalmond;
+}
+a{
+    color: blanchedalmond;
+}
